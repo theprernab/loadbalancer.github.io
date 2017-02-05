@@ -3,7 +3,7 @@ import java.io.*;
 import java.net.ServerSocket;
 import java.net.*;
 /**
- * Created by jayant on 1/7/17.
+ * Created by Prerna on 1/7/17.
  */
 public class MyServer {
     public static void main(String[] args) throws Exception
